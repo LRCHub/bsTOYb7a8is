@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "失敗作少女 (MARETU Remix)",
+  "base_artist": "Kairiki bear、MARETU",
+  "createdAt": "2025-12-01T08:56:20.713074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "失敗作少女 (稲葉曇 Remix)",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/01_失敗作少女_(稲葉曇_Remix)_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "失敗作少女",
+      "artist": "Kairiki Bear",
+      "has_synced": false,
+      "path": "select/02_失敗作少女_Kairiki_Bear.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "失敗作少女",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/03_失敗作少女_かいりきベア.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "失敗作少女 (MARETU remix)",
+      "artist": "かいりきベア; MARETU",
+      "has_synced": true,
+      "path": "select/04_失敗作少女_(MARETU_remix)_かいりきベア;_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "失敗作少女",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/05_失敗作少女_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "失敗作少女",
+      "artist": "かいりきベア; 初音ミク",
+      "has_synced": true,
+      "path": "select/06_失敗作少女_かいりきベア;_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "失敗作少女 (Shippaisaku Shoujo)",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/07_失敗作少女_(Shippaisaku_Shoujo)_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "失敗作少女",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/08_失敗作少女_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "失敗作少女",
+      "artist": "Kairiki Bear feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/09_失敗作少女_Kairiki_Bear_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "失敗作少女 - MARETU Remix",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/10_失敗作少女_-_MARETU_Remix_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "失敗作少女 - 稲葉曇 Remix",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/11_失敗作少女_-_稲葉曇_Remix_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "失敗作少女",
+      "artist": "かいりきベア feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/12_失敗作少女_かいりきベア_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "失敗作少女",
+      "artist": "かいりきベア feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/13_失敗作少女_かいりきベア_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "失敗作少女 (MARETU Remix)",
+      "artist": "Kairiki bear, MARETU",
+      "has_synced": true,
+      "path": "select/14_失敗作少女_(MARETU_Remix)_Kairiki_bear,_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "失敗作少女 -MARETU Remix-",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/15_失敗作少女_-MARETU_Remix-_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "失敗作少女 -MARETU Remix-",
+      "artist": "MARETU feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/16_失敗作少女_-MARETU_Remix-_MARETU_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "失敗作少女 -MARETU Remix-",
+      "artist": "MARETU feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/17_失敗作少女_-MARETU_Remix-_MARETU_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "失敗作少女 (MARETU Remix) - Failure Girl (MARETU Remix)",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/18_失敗作少女_(MARETU_Remix)_-_Failure_Girl_(MARETU_Remix)_MARETU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "失敗作少女",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_失敗作少女_かいりきベア.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "失敗作少女",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_02_失敗作少女_かいりきベア.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "失敗作少女",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_03_失敗作少女_かいりきベア.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "失敗作少女 [稲葉曇 Remix]",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_04_失敗作少女_[稲葉曇_Remix]_かいりきベア.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "失敗作少女-MARETU REMIX-",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_05_失敗作少女-MARETU_REMIX-_かいりきベア.txt"
+    }
+  ]
+}
